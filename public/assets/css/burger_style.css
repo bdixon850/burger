@@ -1,20 +1,16 @@
-html {
-    background-color: #FFC04C;
-}
-
 body {
     width: 75%;
-   margin: 0 auto; 
+    margin: 0 auto; 
 
-   display: flex;
-   min-height: 100vh;
-   flex-direction: column;
-   background-color: white;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: white;
 }
 
 #cute_burger {
     display: block;
-   margin: auto;
+    margin: auto;
 }
 
 h1 {
@@ -34,7 +30,7 @@ h1 {
     width: 100%;
     margin: 10px;
     padding: 10px;
-    background-color: #b7ffc2;
+    background-color: darkgreen;
     border: none;
 }
 
@@ -51,7 +47,7 @@ h1 {
     border-radius: 25px;
     margin: 10px;
     padding: 10px;
-    background-color: #ffd1c9;
+    background-color: yellowgreen;
 }
 
 h2 {
