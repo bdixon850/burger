@@ -15,13 +15,13 @@ body {
 
 h1 {
     text-align: center;
-    font-family: 'Fontdiner Swanky', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 65px;
     margin: 50px;
 }
 
 .burgerAvailable {
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -39,7 +39,7 @@ h1 {
 }
 
 .burgerEaten {
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -52,7 +52,7 @@ h1 {
 
 h2 {
      text-align: center;
-    font-family: 'Fontdiner Swanky', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     margin: 50px;
 }
@@ -62,7 +62,7 @@ h2 {
 }
 
 .addBurgerButton {
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -71,15 +71,15 @@ h2 {
     width: 100%;
     margin: 0;
     padding: 10px;
-    background-color: #FFC04C;
+    background-color: darkgreen;
     border: none;
 }
 
 .addBurgerButton:active {
-   background-color: #FFC04C;
+   background-color: darkgreen;
 }
 
 .burgerFooter {
-   background-color: #FFC04C;
+   background-color: darkgreen;
    padding: 20px 0;
 }
